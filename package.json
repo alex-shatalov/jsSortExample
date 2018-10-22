@@ -1,0 +1,20 @@
+{
+  "name": "jsSortExample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alex-shatalov/jsSortExample.git",
+  "author": "a.shatalov",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.6.0"
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  }
+}
