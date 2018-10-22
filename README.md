@@ -1,3 +1,6 @@
 # jsSortExample
-// to check sort run:
+to check sort run:
+
+```bash
 yarn test
+```
